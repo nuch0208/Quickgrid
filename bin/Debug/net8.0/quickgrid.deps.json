@@ -1,0 +1,181 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "quickgrid/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.QuickGrid": "8.0.0-preview.5.23302.2"
+        },
+        "runtime": {
+          "quickgrid.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Authorization/8.0.0-preview.5.23302.2": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Metadata": "8.0.0-preview.5.23302.2",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
+        }
+      },
+      "Microsoft.AspNetCore.Components/8.0.0-preview.5.23302.2": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "8.0.0-preview.5.23302.2",
+          "Microsoft.AspNetCore.Components.Analyzers": "8.0.0-preview.5.23302.2"
+        }
+      },
+      "Microsoft.AspNetCore.Components.Analyzers/8.0.0-preview.5.23302.2": {},
+      "Microsoft.AspNetCore.Components.Forms/8.0.0-preview.5.23302.2": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "8.0.0-preview.5.23302.2"
+        }
+      },
+      "Microsoft.AspNetCore.Components.QuickGrid/8.0.0-preview.5.23302.2": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "8.0.0-preview.5.23302.2"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Components.QuickGrid.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.30202"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components.Web/8.0.0-preview.5.23302.2": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "8.0.0-preview.5.23302.2",
+          "Microsoft.AspNetCore.Components.Forms": "8.0.0-preview.5.23302.2",
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8",
+          "Microsoft.JSInterop": "8.0.0-preview.5.23302.2",
+          "System.IO.Pipelines": "8.0.0-preview.5.23280.8"
+        }
+      },
+      "Microsoft.AspNetCore.Metadata/8.0.0-preview.5.23302.2": {},
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {},
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {},
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
+        }
+      },
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {},
+      "Microsoft.JSInterop/8.0.0-preview.5.23302.2": {},
+      "System.IO.Pipelines/8.0.0-preview.5.23280.8": {}
+    }
+  },
+  "libraries": {
+    "quickgrid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Authorization/8.0.0-preview.5.23302.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c6lNRPNhiIKSCWbK438Ah0X7nIohdng4naxQXuc2HkclrYGpEL+aYgNn4GTDWUQHpXBXnVG2UO+DP+IWVB5jsQ==",
+      "path": "microsoft.aspnetcore.authorization/8.0.0-preview.5.23302.2",
+      "hashPath": "microsoft.aspnetcore.authorization.8.0.0-preview.5.23302.2.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components/8.0.0-preview.5.23302.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ho5zWKxdXI7PO78ENeT3Z06aELvZ36A3KKghxaIf5dlJKM++zoWlyZdEDJ8zbm8x5QapdRkF0B8wfDkKuO3fww==",
+      "path": "microsoft.aspnetcore.components/8.0.0-preview.5.23302.2",
+      "hashPath": "microsoft.aspnetcore.components.8.0.0-preview.5.23302.2.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Analyzers/8.0.0-preview.5.23302.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ajj+G6O+UQj3Sfvbwmo+eLwUMQfki2ufFgGIyc1E8Q5F9DPrXOvJ439EXfEf642KVEnpgDndFzNSzDa+lUuW0Q==",
+      "path": "microsoft.aspnetcore.components.analyzers/8.0.0-preview.5.23302.2",
+      "hashPath": "microsoft.aspnetcore.components.analyzers.8.0.0-preview.5.23302.2.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Forms/8.0.0-preview.5.23302.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0ZBgbaQec3/wgf2e4VydQiONpidU7jb9rn4aldPy0qHGLx4lkBEKksr5RdJ/uRhLsrZM37JbLx4NUOkiRqokow==",
+      "path": "microsoft.aspnetcore.components.forms/8.0.0-preview.5.23302.2",
+      "hashPath": "microsoft.aspnetcore.components.forms.8.0.0-preview.5.23302.2.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.QuickGrid/8.0.0-preview.5.23302.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b4zBWn4S0gjMAjJ53R/tamXWpVN2cJEXOaJcQ+sFUd12usls41xJaMunZEZ8nnkn93Q40CWdn/yFWPgYKipzqw==",
+      "path": "microsoft.aspnetcore.components.quickgrid/8.0.0-preview.5.23302.2",
+      "hashPath": "microsoft.aspnetcore.components.quickgrid.8.0.0-preview.5.23302.2.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Web/8.0.0-preview.5.23302.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jkua8iHt26uskeOH2l0nRzoTYdZHiTso4pZb61hiOpPIxClu/PRy/yH+4UGkuKz/CfrgYcLBvNilDgvMrRDYOA==",
+      "path": "microsoft.aspnetcore.components.web/8.0.0-preview.5.23302.2",
+      "hashPath": "microsoft.aspnetcore.components.web.8.0.0-preview.5.23302.2.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Metadata/8.0.0-preview.5.23302.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MZurWnzCCGqRnxRH+Yab6J+saqZghR/vaTmOW5wtcclP2voblqE7fiPe2XjK8HdBemBLl4/3MMjjqT//HDY8Gg==",
+      "path": "microsoft.aspnetcore.metadata/8.0.0-preview.5.23302.2",
+      "hashPath": "microsoft.aspnetcore.metadata.8.0.0-preview.5.23302.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pctZWWDGC6E4+1qABr9y55VvNMQQP48n7Hj/z5lPsxge1D75XBzxVzpVlelgatoJJlUGaC+ZYe3VGJR/2Ma6nw==",
+      "path": "microsoft.extensions.dependencyinjection/8.0.0-preview.5.23280.8",
+      "hashPath": "microsoft.extensions.dependencyinjection.8.0.0-preview.5.23280.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nQLLViHS4CkM/L8WatjVEsXG/CHzN+Q7IQgqMki9TJ5n9Gfed/6+OdgbPg1R4D0U1+vHWJqSVyyW1bspnjL9XA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0-preview.5.23280.8",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5+qyVaIhve6qPHw3xMFrLSzzOhXH7KhJ7npf1lTMBVcrXc2wylukEDU/AYjvJ9jjK99FeTQhk9qQc15nWPt8SQ==",
+      "path": "microsoft.extensions.logging.abstractions/8.0.0-preview.5.23280.8",
+      "hashPath": "microsoft.extensions.logging.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9bLxnqIdn0G0fmpKPVam5A1VSRjK/16IjfTH73AR2XnlMbUCXqc4FblyJttnTb3dJXLsnD/Z1OIhH//clXWRjw==",
+      "path": "microsoft.extensions.options/8.0.0-preview.5.23280.8",
+      "hashPath": "microsoft.extensions.options.8.0.0-preview.5.23280.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Na5J07qHjkmoOxnX/7q/JJn9z1R9VwX3ksluKGXUE7pMdpd1AVCM2R95f/0ko13PTyzn4Qn7DVOBeKxJ7NA2zg==",
+      "path": "microsoft.extensions.primitives/8.0.0-preview.5.23280.8",
+      "hashPath": "microsoft.extensions.primitives.8.0.0-preview.5.23280.8.nupkg.sha512"
+    },
+    "Microsoft.JSInterop/8.0.0-preview.5.23302.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e4xlKbuBZ9vkDwpzh7+peLbwi1la7JREeqcpixzDwxO8uTf56IgxnAip/j+TV22SWie1IaL4HfogcL2/bi//Pw==",
+      "path": "microsoft.jsinterop/8.0.0-preview.5.23302.2",
+      "hashPath": "microsoft.jsinterop.8.0.0-preview.5.23302.2.nupkg.sha512"
+    },
+    "System.IO.Pipelines/8.0.0-preview.5.23280.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f7tfzx2J8MfIAFM6fqLGhN6sqJ+2bckeGqhwl4L3vkLhTR9rhbI14Tx555M+iuLpTt82lWFBGKtUC86l8PH4IQ==",
+      "path": "system.io.pipelines/8.0.0-preview.5.23280.8",
+      "hashPath": "system.io.pipelines.8.0.0-preview.5.23280.8.nupkg.sha512"
+    }
+  }
+}

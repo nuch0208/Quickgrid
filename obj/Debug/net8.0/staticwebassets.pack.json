@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\quickgrid\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\quickgrid.bundle.scp.css",
+      "PackagePath": "staticwebassets\\quickgrid.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\quickgrid\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\quickgrid\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\quickgrid\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\quickgrid\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.quickgrid.props",
+      "PackagePath": "build\\quickgrid.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.quickgrid.props",
+      "PackagePath": "buildMultiTargeting\\quickgrid.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.quickgrid.props",
+      "PackagePath": "buildTransitive\\quickgrid.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.quickgrid.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
